@@ -1,4 +1,4 @@
-中文诗歌[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+中文诗歌
 =======
 
 为什么叫花间集?
